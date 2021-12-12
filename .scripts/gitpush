@@ -1,0 +1,9 @@
+git config --global user.email "attila.pohorai@gmail.com"
+git config --global user.name "Attila Pohorai"
+git add
+git commit -m ""
+git branch -M main
+git config credential.helper store
+git push https://github.com/apohorai/dotfiles.git
+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
+
